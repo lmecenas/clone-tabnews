@@ -1,5 +1,5 @@
 function Home(){
-    return <h1> Teste4</h1>
+    return <h1> Renato gaúcho assina com flamengo após filipe luis jogar a toalha</h1>
 }
 
 export default Home;

@@ -11,3 +11,13 @@ Dia de instalação:
     .npmrc → Configurações que o npm lê e aplica antes de executar seus comandos.
 
     .nvmrc → Não é um arquivo de comandos, mas sim um arquivo de configuração que o NVM (Node Version Manager) lê para saber qual versão do Node usar (a lógica é a mesma: ele é "lido" para configurar o ambiente).
+
+# Dia 4
+    Ferramentas utilizadas:
+    - Next.js
+    - React
+criação do manifesto( lista de depedencias do projeto, parecido com o requirements.txt em python):
+    - npm init
+    - npm install next@13.1.6
+    - npm install react@18.2.0
+    - npm install react-dom@18.2.0

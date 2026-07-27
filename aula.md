@@ -41,4 +41,7 @@ geralmente nesses casos, são utilizados o UDP -> User Datagram Protocol.
 
 Next -> Entrega a Conexão, os objetos são entregues pelo React.
 
-Desafio: 
+Desafio: Alinhe o conhecimento, para usar ferramentas para entregar um projeto até o final, que impacte pelo menos uma pessoa e que seja uma experiência prazeroza. -> não precisa ser realizado agora, faremos ao longo
+
+
+# Dia 5 -> Comandos GIT.
